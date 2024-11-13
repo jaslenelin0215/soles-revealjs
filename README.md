@@ -1,4 +1,3 @@
-# This is a copy in my local computer and I am going to create the weekly lecture notes and to be uploaded to Github
 # SOLES reveal.js Quarto template
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
